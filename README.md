@@ -7,3 +7,5 @@ counts the frequency of words in a given string and returns a hash of the result
 ```ruby
   word_counter('hello hello world') # {"hello" => 2, "world" => 1}
 ```
+
+https://repl.it/@chrisjkellett/histogram
